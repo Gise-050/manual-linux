@@ -13,10 +13,15 @@ Para consultar la configuración de red:
 ```bash
 ip addr
 ```
+
+Este comando permite consultar las direcciones IP y las interfaces de red del equipo.
+
+
 Para comprobar la conectividad:
 ```bash
 ping 8.8.8.8
 ```
+Este comando permite comprobar si existe conexión con otra dirección IP.
 
 ## Gestión de usuarios
 
