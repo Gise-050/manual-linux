@@ -17,3 +17,16 @@ Para comprobar la conectividad:
 ```bash
 ping 8.8.8.8
 ```
+
+## Gestión de usuarios
+
+Para consultar el usuario actual:
+
+```bash
+whoami
+```
+
+```bash
+git status
+```
+
