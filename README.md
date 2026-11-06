@@ -35,3 +35,8 @@ whoami
 git status
 ```
 
+## Conclusión
+
+Esta guía recoge algunos comandos básicos de Linux para consultar la configuración de red, comprobar la conectividad y gestionar usuarios.
+
+Conocer estos comandos facilita la administración y el mantenimiento de un sistema Linux.
