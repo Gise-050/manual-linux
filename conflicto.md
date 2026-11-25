@@ -53,5 +53,5 @@ y el repositorio remoto se encuentra alojado en GitHub.
 3. Mejorar futuras estructuras.
 
 # Prueba de conflictos
-Este documento explica cómo Git permite trabajar
-con distintas ramas.
+Este documento explica cómo Git registra y organiza
+las versiones de un proyecto.
