@@ -52,6 +52,5 @@ y el repositorio remoto se encuentra alojado en GitHub.
 2. Añadir más recursos.
 3. Mejorar futuras estructuras.
 
-
 # Prueba de conflictos
 Este documento explica cómo funciona Git.
