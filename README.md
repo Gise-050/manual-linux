@@ -40,3 +40,14 @@ git status
 Esta guía recoge algunos comandos básicos de Linux para consultar la configuración de red, comprobar la conectividad y gestionar usuarios.
 
 Conocer estos comandos facilita la administración y el mantenimiento de un sistema Linux.
+
+## Información del proyecto 
+Esta documentación se ha elaborado utilizando Markdown.
+
+El control de versiones se realiza mediante Git 
+y el repositorio remoto se encuentra alojado en GitHub.
+
+## Próximas mejoras
+1. Mejorar conceptos del proyecto.
+2. Añadir más recursos.
+3. Mejorar futuras estructuras.
